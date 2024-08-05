@@ -1,2 +1,1 @@
-# EconoCompra
-Sistema para gerenciamento e comparação de preços de compras 
+![Banner](https://github.com/Bickinho/EconoCompra/blob/main/Documents/images/Banner-EconoCompra.png)
